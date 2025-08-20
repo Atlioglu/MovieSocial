@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021976655020",
+    "project_id": "moviesocial-1c958",
+    "storage_bucket": "moviesocial-1c958.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021976655020:android:08f39dcd79b6d55c4f1b09",
+        "android_client_info": {
+          "package_name": "com.example.moviesocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8qCX92hoBpbYP6c3SqC1KbH4TuLeucY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
